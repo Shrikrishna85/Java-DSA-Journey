@@ -9,4 +9,4 @@ This repository documents my Java programming and Data Structures & Algorithms l
 - Build a portfolio of Java solutions.
 
 ## Progress
-- Day 01: Getting started.
+- Day 01: Getting started.      

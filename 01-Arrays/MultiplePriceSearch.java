@@ -14,17 +14,12 @@ public class MultiplePriceSearch {
 
                 if (prices[j] == targets[i]) {
                     found = true;
-                    System.out.println(
-                        "Price " + targets[i] +
-                        " found at index: " + j
-                    );
+                    System.out.println("Price " + targets[i] +" found at index: " + j);
                 }
             }
 
             if (!found) {
-                System.out.println(
-                    "Price " + targets[i] + " not found"
-                );
+                System.out.println("Price " + targets[i] + " not found");
             }
         }
     }
