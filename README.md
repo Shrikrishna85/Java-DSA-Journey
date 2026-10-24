@@ -8,5 +8,8 @@ This repository documents my Java programming and Data Structures & Algorithms l
 - Practise coding consistently.
 - Build a portfolio of Java solutions.
 
-## Progress
-- Day 01: Getting started.      
+- Arrays
+- Linear Search
+- Basic operations 
+- Structures
+- 
